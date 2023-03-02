@@ -1,1 +1,2 @@
 # landing-page
+I'm starting this project out with the goal of solidifying my CSS knowledge by undertaking a project with little guidance from a tutorial and to get familiar with writing git commits, which I struggle to understand.
